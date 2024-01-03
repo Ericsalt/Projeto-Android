@@ -27,7 +27,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- [Acesse o projeto finalizado, online](https://github.com/Ericsalt/Projeto-Android)
+O Projeto Android é um site agregador focado na história da marca Android durante os anos.
+
+- [Acesse o projeto finalizado, online](https://ericsalt.github.io/Projeto-Android/)
+- [Assistir aulas](https://www.youtube.com/watch?v=ofFgnDtn_1c&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=1&pp=iAQB)
 
 Esse projeto está sob a licença MIT.
 
