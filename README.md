@@ -1,38 +1,45 @@
-<h1 align="center"> Projeto Android </h1>
+# Projeto Android
 
-<p align="center">
-Programa promovido pelo Cruso em Vídeo. <br/>
+Este é um projeto de um site agregador focado na história da marca Android ao longo dos anos, desenvolvido utilizando HTML e CSS.
 
+## Descrição
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
+O projeto Android: Agregador Histórico visa oferecer aos usuários uma experiência imersiva na história da marca Android, desde seus primeiros dias até os desenvolvimentos mais recentes. O site agrega informações, curiosidades e marcos importantes do sistema operacional, fornecendo uma visão abrangente e educativa sobre sua evolução.
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
+## Tecnologias Utilizadas
 
-<br>
+- HTML5
+- CSS3
 
+## Funcionalidades
 
-## 🚀 Tecnologias
+- Apresentação da história da marca Android em uma interface atraente e acessível.
+- Seções organizadas por período de tempo, marcos importantes e curiosidades.
+- Design responsivo para garantir uma experiência consistente em diferentes dispositivos e tamanhos de tela.
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+## Instruções de Uso
 
-- HTML e CSS
-- Git e Github
+1. Faça o clone deste repositório.
+2. Abra o arquivo `index.html` em seu navegador web preferido.
+3. Navegue pelo site para explorar a história da marca Android ao longo dos anos.
 
-
-## 💻 Projeto
-
-O Projeto Android é um site agregador focado na história da marca Android durante os anos.
+## Acesse o projeto
 
 - [Acesse o projeto finalizado, online](https://ericsalt.github.io/Projeto-Android/)
-- [Assistir aulas](https://www.youtube.com/watch?v=ofFgnDtn_1c&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=1&pp=iAQB)
 
-Esse projeto está sob a licença MIT.
+## Contribuindo
+
+Contribuições são bem-vindas! Se você tiver informações adicionais, sugestões de melhorias ou encontrar problemas, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+## Contato
+
+Se tiver alguma dúvida ou sugestão sobre este projeto, entre em contato:
+
+[Eric Salgado Pereira](mailto:Salgadoeric7t@gmail.com)
+
+## Licença
+
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ---
 
